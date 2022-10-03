@@ -1,0 +1,22 @@
+.wrapper {
+  margin-top: 250px;
+  position: relative;
+}
+
+.ulWrapper {
+  height: 120px;
+  overflow-y: scroll;
+  position: absolute;
+  top: 45%;
+  left: 45%;
+}
+
+.wrapperData {
+  margin: 60px;
+}
+
+.targetMessage {
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+}
